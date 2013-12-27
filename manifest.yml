@@ -1,6 +1,6 @@
 ---
 name : "Bootstrap"
-website :  "http://jekyll-bootstrap-3.gihub.io/bootstrap-theme"
+website :  "https://github.com/jekyll-bootstrap-3/bootstrap-theme"
 description :  "Default theme for Jekyll Bootstrap 3."
 author:
   name : "Ismail Demirbilek"
